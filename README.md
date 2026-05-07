@@ -34,8 +34,8 @@ This repository contains machine learning models for predicting three types of p
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/JMLab-tifrh/PTM_prediction.git
+cd PTM_prediction
 ```
 
 2. Create the conda environment:
